@@ -13,9 +13,9 @@ docker-compose -f ./src/main/docker/docker-compose.yml up -d
 
 ## Endpoints
 
-`api/user` - prints the user which inserted the initial data into the `testTable` table.
-`api/book`- lists all books.
-`api/book/{id}` - returns book with specific id.
+- `api/user` - prints the user which inserted the initial data into the `testTable` table.
+- `api/book`- lists all books.
+- `api/book/{id}` - returns book with specific id.
 
 ## Related Guides
 
