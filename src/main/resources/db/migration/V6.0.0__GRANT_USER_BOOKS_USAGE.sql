@@ -1,0 +1,1 @@
+GRANT UPDATE, SELECT, DELETE, INSERT ON test_schema.books to application_user;
